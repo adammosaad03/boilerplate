@@ -60,3 +60,33 @@ clear
 ls --color=auto
 cd node_modules
 ls --color=auto
+__vsc_prompt_cmd_original
+ls --color=auto -1
+ls --color=auto flag -1
+ls --color=auto -1
+ls --color=auto -1
+ls --color=auto
+-1
+ls --color=auto -1
+ls --color=auto
+ls --color=auto -1
+ls --color=auto < flag > -1
+ls --color=auto node_modules -1
+ls --color=auto 1
+ls --color=auto -1
+__vsc_prompt_cmd_original
+ls --color=auto -1
+ls --color=auto
+ls --color=auto 1
+ls-1
+ls --color=auto -1
+ls --color=auto -1 node_modules
+ls --color=auto - 1
+ls --color=auto -1
+ls --color=auto -1 node_modules
+ls --color=auto -1
+cd test
+cd ..
+ls --color=auto -1 node_modules
+cd node_modules
+ls --color=auto -l
