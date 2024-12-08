@@ -296,3 +296,15 @@ find
 rmdir images
 rm background.jpg
 rm images/background.jpg
+rmdir images
+rmdir images
+cd/workspace/project/website
+cd /workspace/project/website
+rmdir images
+rmdir images
+rmdir images
+cd /workspace/project/website
+rmdir images
+rm -r images
+mkdir images
+rmdir images
