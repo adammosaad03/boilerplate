@@ -156,3 +156,4 @@ ls --color=auto --help
 --a
 ls --color=auto --a
 ls --color=auto -a
+cd .
