@@ -203,3 +203,4 @@ ls --color=auto
 rm melo.font
 ls --color=auto
 mkdir fonts
+ls --color=auto
