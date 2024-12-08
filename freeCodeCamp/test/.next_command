@@ -316,3 +316,11 @@ cd client/assets
 touch icons
 cd -
 mkdir client/assets/icons
+mv CodeAlly.svg client/assets/icons
+mkdri client/assets/icons
+mkdir client/assets/icons
+cd client/assets/icons
+touch CodeAlly.svg
+mv CodeAlly.svg fonts
+mv fonts CodeAlly.svg
+mv CodeAlly.svg website/client/assets/icons/images/src/fonts
