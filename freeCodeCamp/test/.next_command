@@ -345,3 +345,4 @@ mkdir fonts
 rmdir fonts
 cd -
 mkdir client/assets/fonts
+touch client/assets/fonts/roboto-bold.woff
