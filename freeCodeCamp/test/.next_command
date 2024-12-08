@@ -278,3 +278,5 @@ ls --color=auto
 find -help images
 find images
 find -name images
+__vsc_prompt_cmd_original
+mv header.png client/assets/images
