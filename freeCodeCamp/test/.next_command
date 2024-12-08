@@ -167,3 +167,4 @@ touch lato.font
 touch melo.font
 touch menlo.font
 ls --color=auto
+touch CodeAlly.svg
