@@ -187,3 +187,4 @@ sp header.png images
 cp header.png images
 cp fotter.jpeg images
 cp footer.jpeg images
+cd images
