@@ -308,3 +308,4 @@ rmdir images
 rm -r images
 mkdir images
 rmdir images
+ls --color=auto
