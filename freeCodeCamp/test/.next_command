@@ -384,3 +384,6 @@ find
 find toms-website
 find website-boilerplate
 clear
+echo "goodbye terminal"
+echo goodby terminal
+echo goodbye terminal
