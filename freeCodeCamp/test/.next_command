@@ -233,3 +233,26 @@ cd assets
 mkdir images
 cd images
 touch background.jpg
+cd ..
+cd ..
+cd //
+cd ..
+cd website
+cd website
+cd ../..
+cd client
+cd ../../..
+cd -
+cd ~
+cd ~
+cd -
+cd website
+pwd
+cd ../../..
+cd /website
+cd -
+cd -
+cd -
+cd website
+cd /workspace/project/website/client/assets/images
+cd ../../..
