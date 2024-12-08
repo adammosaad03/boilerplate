@@ -334,3 +334,14 @@ cd -
 mv CodeRoad.svg client/assets/icons
 mv freeCodeCamp.svg client/assets/icons
 find
+cd icons
+cd client/assets/icons
+mkdir fonts
+rmdir fonts
+cd-
+cd -
+cd client/assets
+mkdir fonts
+rmdir fonts
+cd -
+mkdir client/assets/fonts
