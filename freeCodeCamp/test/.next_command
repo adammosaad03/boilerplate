@@ -309,3 +309,10 @@ rm -r images
 mkdir images
 rmdir images
 ls --color=auto
+touch icons assets
+touch icons
+cd assets
+cd client/assets
+touch icons
+cd -
+mkdir client/assets/icons
