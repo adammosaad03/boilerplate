@@ -189,3 +189,4 @@ cp fotter.jpeg images
 cp footer.jpeg images
 cd images
 ls --color=auto
+cd ..
