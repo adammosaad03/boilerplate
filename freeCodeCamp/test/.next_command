@@ -228,3 +228,5 @@ find -name src
 find
 cd client
 mkdir assets
+cd assts
+cd assets
