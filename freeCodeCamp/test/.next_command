@@ -120,3 +120,12 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 clear
 ls --color=auto
+more src
+more src
+more src test
+more src
+ls --color=auto
+more src
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+cd src
