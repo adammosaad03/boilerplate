@@ -328,3 +328,7 @@ find
 cd-
 cd -
 find
+cd -
+find
+cd -
+mv CodeRoad.svg client/assets/icons
