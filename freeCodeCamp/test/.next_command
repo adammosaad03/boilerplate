@@ -230,3 +230,4 @@ cd client
 mkdir assets
 cd assts
 cd assets
+mkdir images
