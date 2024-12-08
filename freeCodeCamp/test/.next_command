@@ -387,3 +387,4 @@ clear
 echo "goodbye terminal"
 echo goodby terminal
 echo goodbye terminal
+exit
