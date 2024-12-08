@@ -324,3 +324,7 @@ touch CodeAlly.svg
 mv CodeAlly.svg fonts
 mv fonts CodeAlly.svg
 mv CodeAlly.svg website/client/assets/icons/images/src/fonts
+find
+cd-
+cd -
+find
